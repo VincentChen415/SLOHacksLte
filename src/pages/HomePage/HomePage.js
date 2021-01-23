@@ -17,6 +17,11 @@ function HomePage({}) {
                     Tools
                 </Link>
             </div>
+            <div>
+                <Link className="" to={"/mental"}>
+                    Mental
+                </Link>
+            </div>
         </div>
 
     );
