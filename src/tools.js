@@ -92,4 +92,20 @@ export const tools = [
                     and non-profit organizations within the US, UK, and Australia.`,
         tags: ['Communications'],
     },
+    {
+        id: '9',
+        name: 'Vidyard',
+        link: 'https://www.vidyard.com/press-releases/free-video-tools-during-covid-19/',
+        description: 'Free secure video messaging to enchance internal communications for all businesses.',
+        tags: ['Communications'],
+    },
+    {
+        id: '10',
+        name: 'Discord',
+        link: 'https://blog.discordapp.com/helping-out-where-we-can-3a5fb7bac77a',
+        description: `Free, enhanced Go Live streaming service so that it can now support 50 simultaneous users
+                    rather than 10.`,
+        tags: ['Communications'],
+    },
+    
 ];
