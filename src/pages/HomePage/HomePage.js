@@ -5,23 +5,8 @@ const { Link } = require("react-router-dom");
 
 function HomePage({}) {
     return(
-        <div>
-            <div>Homepage</div>
-            <div>
-                <Link className="" to={"/screener"}>
-                    Self Screener
-                </Link>
-            </div>
-            <div>
-                <Link className="" to={"/tools"}>
-                    Tools
-                </Link>
-            </div>
-            <div>
-                <Link className="" to={"/mental"}>
-                    Mental
-                </Link>
-            </div>
+        <div className="homepage-container">
+            Hi
         </div>
 
     );
