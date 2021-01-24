@@ -10,13 +10,6 @@ import { findAllByPlaceholderText } from "@testing-library/react";
 
 export const tools = [
     {
-        id: '',
-        name: '',
-        link: '',
-        description: '',
-        tags: [],
-    },
-    {
         id: '0',
         name: 'Zoom',
         link: 'https://www.zoom.us',
@@ -312,28 +305,28 @@ export const tools = [
         tags: ['Software Support', 'Software Security'],
     },
     {
-        id: '36',
+        id: '37',
         name: 'Netsparker',
         link: 'https://www.netsparker.com/blog/news/netsparker-licenses-for-covid-relief/',
         description: 'Free Team licenses to help organizations keep their websites and web applications secure during this unprecedented global crisis. This is for organizations involved in fighting COVID-19.        ',
         tags: ['Software Support', 'Software Security'],
     },
     {
-        id: '37',
+        id: '38',
         name: 'AdGuard',
         link: 'https://adguard.com/en/blog/stayhome.html',
         description: 'Free licenses during COVID-19 pandemic to make the web experience better for everyone while we all stay at home. AdGuard is a cross-platform ads and tracking blocker that has all the necessary features for a clean, ad-free, uninterrupted and private web surfing: Whole-system ad blocking Advanced privacy protection Traffic usage reduction Protection from phishing and malware Available for Windows, MacOS, iOS and Android platforms.',
         tags: ['Software Support', 'Software Security'],
     },
     {
-        id: '38',
+        id: '39',
         name: 'Trustwave',
         link: 'https://www.trustwave.com/en-us/resources/blogs/trustwave-blog/covid-19-pandemic-cybersecurity-recommendations-and-free-resources/',
         description: 'Free Remote Work Security Information Pack. The informational pack from Trustwave Security Colony includes BYOD Device Security Checklist, Phishing Tips Sticker and more. Registration required.',
         tags: ['Software Support', 'Software Security'],
     },
     {
-        id: '39',
+        id: '40',
         name: 'Qualtrics',
         link: 'https://www.qualtrics.com/here-to-help/',
         description: 'Free for all organizations to use Qualtrics Remote Work Pulse.',
