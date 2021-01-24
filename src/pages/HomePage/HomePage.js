@@ -5,25 +5,9 @@ const { Link } = require("react-router-dom");
 
 function HomePage({}) {
     return(
-        <div>
-            <div>Homepage</div>
-            <div>
-                <Link className="" to={"/screener"}>
-                    Self Screener
-                </Link>
-            </div>
-            <div>
-                <Link className="" to={"/tools"}>
-                    Tools
-                </Link>
-            </div>
-            <div>
-                <Link className="" to={"/mental"}>
-                    Mental
-                </Link>
-            </div>
+        <div className="homepage-container">
+            <iframe id="human-embed" frameBorder="0" style={{position: "absolute", top: "60px"}} width="100%" height="600" allowFullScreen="true" src="https://human.biodigital.com/viewer?id=production/maleAdult/coronavirus_structure&ui-chapter-list=true&ui-label-list=true&ui-fullscreen=false&ui-all=true&ui-search=false&load-rotate=1&ui-tools=false&ui-info=false&uaid=86wP4"/>
         </div>
-
     );
 };
 
