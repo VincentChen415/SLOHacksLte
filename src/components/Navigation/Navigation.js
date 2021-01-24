@@ -22,6 +22,9 @@ function Navigation({}) {
                 <Link className="nav-item" to={"/mental"}>
                     Mental
                 </Link>
+                <Link className="nav-item" to= {"/team"}>
+                    The Team
+                </Link>
             </div>
         </div>
 

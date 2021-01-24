@@ -5,6 +5,7 @@ import ScreenerPage from './pages/ScreenerPage/ScreenerPage'
 import ToolsPage from './pages/ToolsPage/ToolsPage'
 import MentalPage from './pages/MentalPage/MentalPage'
 import Navigation from './components/Navigation/Navigation'
+import TeamPage from './pages/TeamPage/Team'
 
 
 function App() {
@@ -17,6 +18,7 @@ function App() {
           <Route exact path="/screener" component={ScreenerPage} />
           <Route exact path="/tools" component={ToolsPage} />
           <Route exact path="/mental" component = {MentalPage} />
+          <Route exact path="/team" component = {TeamPage} />
           <Route path="/" render={() => <div>404</div>} />
         </Switch>
       </div>
