@@ -17,10 +17,10 @@ function Navigation({}) {
                     Self Screener
                 </Link>
                 <Link className="nav-item" to={"/tools"}>
-                    Tools
+                    Resources
                 </Link>
                 <Link className="nav-item" to={"/mental"}>
-                    Mental
+                    Blog
                 </Link>
                 <Link className="nav-item" to= {"/team"}>
                     The Team

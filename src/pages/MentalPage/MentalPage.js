@@ -19,9 +19,11 @@ function MentalPage({}) {
             <br/>
             <br/>
             <br/>
-
+        <div className="text">
             <h1>Mental Health Blog</h1>
-            <p1>Mental health is extremely important pre-covid and is even more so post covid. It’s really easy to get stuck in a ditch from being indoors all day. Whether it’s anxiety of ongoing issues, existential dread and depression, or even just staying indoors too long making you antsy. It's always important to take a few minutes to evaluate yourself and rest. A disclaimer for the following, most these are anecdotal remedies for depression, anxiety, etc and should not be taken as a cure for mental illness. Improving your mental health is a glacial progression and some things don’t work for everyone! There are many resources available and we hope the following as well as our tools page can direct you to receive that support.</p1>
+            <p1>Mental health is extremely important pre-covid and is even more so post covid. 
+                It’s really easy to get stuck in a ditch from being indoors all day. Whether it’s anxiety of ongoing issues, existential dread and depression, 
+                or even just staying indoors too long making you antsy. It's always important to take a few minutes to evaluate yourself and rest. A disclaimer for the following, most these are anecdotal remedies for depression, anxiety, etc and should not be taken as a cure for mental illness. Improving your mental health is a glacial progression and some things don’t work for everyone! There are many resources available and we hope the following as well as our resources page can direct you to receive that support.</p1>
             
             <br/>
             <br/>
@@ -108,8 +110,7 @@ function MentalPage({}) {
             </div>
 
             <br/>
-
-            <div>MentalPage</div>
+            </div>
         </div>
 
     );

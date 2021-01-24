@@ -17,7 +17,13 @@ function HomePage({}) {
             </div>
             <br/>
             <br/>
-
+            <div class="c">
+            <h1>Our Mission/Goal</h1>
+            <p>"The purpose of 'COVID Decoders' is to design a user-friendly interface that provides helpful information to support those affected by the recent COVID-19 outbreak. In addition to educating the public body about the virus itself and how to limit its spread, this website offers several tools to improve one's well-being while in quarantine. We hope provide further knowledge to those at risk by making the information readily accessible."</p>
+            </div>
+            <br/>
+            <br/>
+            <br/>
             <div className="covid-table">
             <iframe src="https://public.domo.com/cards/aAR5B" width="100%" height="600" marginheight="0" marginwidth="0" frameborder="0"></iframe>
             </div>
@@ -49,12 +55,6 @@ function HomePage({}) {
                 </img>
             </div>
            
-            <br/>
-            <br/>
-            <div class="c">
-            <h1>Our Mission/Goal</h1>
-            <p>"The purpose of 'COVID Decoders' is to design a user-friendly interface that provides helpful information to support those affected by the recent COVID-19 outbreak. In addition to educating the public body about the virus itself and how to limit its spread, this website offers several tools to improve one's well-being while in quarantine. We hope provide further knowledge to those at risk by making the information readily accessible."</p>
-            </div>
             <br/>
             <br/>
             <br/>
