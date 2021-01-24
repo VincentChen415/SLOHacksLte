@@ -2,3 +2,29 @@
     background-color: white;
     height: 200vh;
 }
+.covid-model{
+    display:block;
+}
+.covid-table{
+    display:block;
+}
+.covid-map{
+    display:block;
+}
+.picture1{
+    display:block;
+    margin:0 auto;
+    width:75%;
+}
+div.a{
+    text-align:left;
+}
+div.b{
+    text-align:center;
+}
+div.c{
+    text-align:center;
+}
+div.d{
+    text-align:center;
+}
